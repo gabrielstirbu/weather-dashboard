@@ -6,6 +6,9 @@ The app:
 - Has a search button 
 - Save the city in local storage
 - Diplay: Day: Temperature, Humidity and Wind Speed 
+<img width="1222" alt="Screenshot 2023-11-21 at 23 06 52" src="https://github.com/gabrielstirbu/weather-dashboard/assets/145403373/30578106-7b4d-4a6d-920c-427c96f8007f">
+<img width="1230" alt="Screenshot 2023-11-21 at 23 07 11" src="https://github.com/gabrielstirbu/weather-dashboard/assets/145403373/49ce8fd5-5048-43fe-96ff-5a0b4addfad7">
+
 
 ## How to Use 
 1. Type a City name
